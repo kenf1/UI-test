@@ -1,0 +1,19 @@
+/*
+    button turns green on hover
+*/
+QPushButton:hover{
+    font-size: 18px;
+    background-color: green;
+}
+
+QPushButton{
+    background-color: black;
+}
+
+/*
+    set font size, QLineEdit size modified in app.py
+*/
+QLineEdit{
+    font-size: 38px;
+    background-color: black;
+}

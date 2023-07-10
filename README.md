@@ -1,3 +1,3 @@
-## GUI applications with Qt
+## UI-test
 
-[PyQt6 website](https://doc.qt.io/qtforpython-6/)
+Experiment with different UI frameworks.
